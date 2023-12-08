@@ -18,7 +18,7 @@ class ConsultationQueueWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       // width: 180,
-      // height: 119,
+      height: 119,
       child: Column(
         children: [
           _buildTopContainer(),
@@ -30,8 +30,10 @@ class ConsultationQueueWidget extends StatelessWidget {
 
   Widget _buildTopContainer() {
     return Container(
+      height: 200,
+      width: 180,
       decoration: BoxDecoration(
-        color: Colors.yellow,
+        color: Colors.white,
         borderRadius: BorderRadius.only(
           topLeft: Radius.circular(20),
           topRight: Radius.circular(20),
@@ -41,7 +43,11 @@ class ConsultationQueueWidget extends StatelessWidget {
         padding: const EdgeInsets.only(top: 28, right: 32, left: 32),
         child: Column(
           children: [
-            Image.asset(imagePath),
+            Image.asset(
+              imagePath,
+              width: 80,
+              height: 80,
+            ),
             SizedBox(height: 27),
             Text(name),
             SizedBox(height: 4),

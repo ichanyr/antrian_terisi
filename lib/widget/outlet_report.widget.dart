@@ -17,8 +17,8 @@ class OutletReportWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      width: 184,
-      height: 162,
+      // width: 184,
+      // height: 162,
       decoration: BoxDecoration(
         color: Colors.white,
         borderRadius: BorderRadius.circular(15),
