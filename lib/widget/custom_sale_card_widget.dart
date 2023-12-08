@@ -85,6 +85,20 @@ class CustomSaleCardWidget extends StatelessWidget {
                   ),
                 ),
                 SizedBox(height: 16),
+                Card(
+                  color: Color(0xff03C96A),
+                  child: Padding(
+                    padding: const EdgeInsets.all(12.0),
+                    child: Text(
+                      'Delivery . Paid',
+                      style: TextStyle(
+                        color: Colors.white,
+                        fontSize: 12,
+                        fontWeight: FontWeight.w700,
+                      ),
+                    ),
+                  ),
+                ),
               ],
             )
           ],
