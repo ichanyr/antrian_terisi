@@ -1,16 +1,9 @@
 # antrian_terisi
 
-A new Flutter project.
+<img width="194" alt="image" src="https://github.com/ichanyr/antrian_terisi/assets/114141633/00272e70-53d0-487f-b17e-64a0218e71fb">
 
-## Getting Started
+<img width="188" alt="image" src="https://github.com/ichanyr/antrian_terisi/assets/114141633/e1eda46e-c6ba-4d23-ab7f-ae1295f357cc">
 
-This project is a starting point for a Flutter application.
+<img width="190" alt="image" src="https://github.com/ichanyr/antrian_terisi/assets/114141633/e038eae6-87da-430f-9bc5-cd8db145cf91">
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
